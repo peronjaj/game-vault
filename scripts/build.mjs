@@ -45,6 +45,16 @@ const ALIASES = {
   'alan wake 2 & dlcs': 'Alan Wake 2',
   'elden ring': 'Elden Ring',
   'shadow of the erdtree dlc': null,            // DLC of Elden Ring — skip as own entry
+  'shadow of the erdtree': null,
+  'dark souls 1': 'Dark Souls: Remastered',
+  'dark souls 2': 'Dark Souls II',
+  'dark souls 3': 'Dark Souls III',
+  'nioh 1': 'Nioh',
+  'armored core 6': 'Armored Core VI: Fires of Rubicon',
+  'ratchet & clank 2016': 'Ratchet & Clank',
+  'shadow of the collossus': 'Shadow of the Colossus',
+  'uncharted lost legacy': 'Uncharted: The Lost Legacy',
+  'the last of us part 2': 'The Last of Us Part II',
   'the ascend': 'The Ascent',
   'spider-man 2': "Marvel's Spider-Man 2",
   'spider-man miles morales': "Marvel's Spider-Man: Miles Morales",
@@ -61,7 +71,7 @@ const ALIASES = {
 /* Entries to drop entirely (subscription labels, not games) */
 const SKIP_PATTERNS = [
   /ps\+\s*premium library/i, /ps\+\s*monthly games/i, /ps\+\s*collection/i,
-  /^ps\+/i, /^\d+$/, /^dlcs?$/i, /^with dlcs?$/i,
+  /^ps\+/i, /^\d+$/, /^dlcs?$/i, /^with dlcs?$/i, /^update req/i,
 ];
 
 /* ---------- CSV parsing (handles quoted cells with commas) ---------- */
@@ -94,8 +104,9 @@ function cleanCell(raw) {
 
 function extractTitles(cell) {
   const out = [];
-  for (let part of cell.split(/[;,]| \+ /)) {
+  for (let part of cell.split(/[;,]/)) {
     part = part.trim().replace(/\s+/g, ' ');
+    part = part.replace(/\s*\((PS5|PS4|VR)\)$/i, '').replace(/\s*[–-]\s*PS[45]$/i, '').trim();
     if (!part) continue;
     if (SKIP_PATTERNS.some(p => p.test(part))) continue;
     const alias = ALIASES[part.toLowerCase()];
@@ -162,8 +173,20 @@ const overrides = JSON.parse(fs.readFileSync(new URL('../data/overrides.json', i
 const csvText = await (await fetch(SHEET_URL)).text();
 const rows = parseCSV(csvText);
 const header = rows[0].map(h => h.trim().toLowerCase());
-const gamesCol = header.findIndex(h => h === 'games' || h.startsWith('games'));
-if (gamesCol === -1) { console.error('No "Games" column found in sheet'); process.exit(1); }
+
+// There may be several columns whose header contains "games" (or a stray empty
+// duplicate). Pick the candidate column with the most non-empty data cells.
+let candidates = header
+  .map((h, i) => (h.includes('games') ? i : -1))
+  .filter(i => i !== -1);
+if (!candidates.length) candidates = header.map((_, i) => i); // fallback: any column
+let gamesCol = -1, bestCount = -1;
+for (const i of candidates) {
+  const count = rows.slice(1).filter(r => r[i] && r[i].trim()).length;
+  if (count > bestCount) { bestCount = count; gamesCol = i; }
+}
+if (gamesCol === -1 || bestCount === 0) { console.error('No populated "Games" column found in sheet'); process.exit(1); }
+console.log(`Using column ${gamesCol + 1} ("${rows[0][gamesCol].trim() || 'unnamed'}") with ${bestCount} filled rows`);
 
 const titles = [];
 const seen = new Set();
