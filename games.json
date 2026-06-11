@@ -1,0 +1,935 @@
+{
+  "updated": "2026-06-11T12:10:09.191Z",
+  "games": [
+    {
+      "t": "Red Dead Redemption 2",
+      "y": 2018,
+      "c": 97,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/red-dead-redemption-2/",
+      "mc": "https://www.metacritic.com/game/red-dead-redemption-2/",
+      "dlc": null
+    },
+    {
+      "t": "Elden Ring",
+      "y": 2022,
+      "c": 96,
+      "u": 7.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/elden-ring/",
+      "mc": "https://www.metacritic.com/game/elden-ring/",
+      "dlc": "+ Erdtree DLC"
+    },
+    {
+      "t": "Persona 5 Royal",
+      "y": 2019,
+      "c": 95,
+      "u": 8.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/persona-5-royal/",
+      "mc": "https://www.metacritic.com/game/persona-5-royal/",
+      "dlc": null
+    },
+    {
+      "t": "Astro Bot",
+      "y": 2024,
+      "c": 94,
+      "u": 9.1,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/astro-bot/",
+      "mc": "https://www.metacritic.com/game/astro-bot/",
+      "dlc": null
+    },
+    {
+      "t": "God of War Ragnarök",
+      "y": 2022,
+      "c": 94,
+      "u": 8.5,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "mc": "https://www.metacritic.com/game/god-of-war-ragnarok/",
+      "dlc": null
+    },
+    {
+      "t": "Metaphor: ReFantazio",
+      "y": 2024,
+      "c": 94,
+      "u": 8.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2679460/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/metaphor-refantazio/",
+      "mc": "https://www.metacritic.com/game/metaphor-refantazio/",
+      "dlc": null
+    },
+    {
+      "t": "Final Fantasy IX",
+      "y": 2000,
+      "c": 94,
+      "u": 8.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/377840/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-ix/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-ix/",
+      "dlc": null
+    },
+    {
+      "t": "The Last of Us Part II",
+      "y": 2020,
+      "c": 93,
+      "u": 5.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2531310/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii/",
+      "mc": "https://www.metacritic.com/game/the-last-of-us-part-ii/",
+      "dlc": null
+    },
+    {
+      "t": "Hades",
+      "y": 2020,
+      "c": 93,
+      "u": 8.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/hades/",
+      "mc": "https://www.metacritic.com/game/hades/",
+      "dlc": null
+    },
+    {
+      "t": "Resident Evil 4 Remake",
+      "y": 2023,
+      "c": 93,
+      "u": 9.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/resident-evil-4/",
+      "mc": "https://www.metacritic.com/game/resident-evil-4/",
+      "dlc": null
+    },
+    {
+      "t": "The Witcher 3: Wild Hunt",
+      "y": 2015,
+      "c": 92,
+      "u": 9.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-witcher-3-wild-hunt/",
+      "mc": "https://www.metacritic.com/game/the-witcher-3-wild-hunt/",
+      "dlc": null
+    },
+    {
+      "t": "Bloodborne",
+      "y": 2015,
+      "c": 92,
+      "u": 8.9,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/bloodborne/",
+      "mc": "https://www.metacritic.com/game/bloodborne/",
+      "dlc": null
+    },
+    {
+      "t": "Demon's Souls",
+      "y": 2020,
+      "c": 92,
+      "u": 8.2,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/demons-souls/",
+      "mc": "https://www.metacritic.com/game/demons-souls/",
+      "dlc": null
+    },
+    {
+      "t": "Final Fantasy VII Rebirth",
+      "y": 2024,
+      "c": 92,
+      "u": 9.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2909400/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-vii-rebirth/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-vii-rebirth/",
+      "dlc": null
+    },
+    {
+      "t": "Clair Obscur: Expedition 33",
+      "y": 2025,
+      "c": 92,
+      "u": 9.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/clair-obscur-expedition-33/",
+      "mc": "https://www.metacritic.com/game/clair-obscur-expedition-33/",
+      "dlc": null
+    },
+    {
+      "t": "Celeste",
+      "y": 2018,
+      "c": 92,
+      "u": 8.5,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/celeste/",
+      "mc": "https://www.metacritic.com/game/celeste/",
+      "dlc": null
+    },
+    {
+      "t": "The Walking Dead",
+      "y": 2012,
+      "c": 92,
+      "u": 8.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/207610/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-walking-dead-the-telltale-definitive-series/",
+      "mc": "https://www.metacritic.com/game/the-walking-dead-a-telltale-games-series/",
+      "dlc": null
+    },
+    {
+      "t": "Resident Evil 2 Remake",
+      "y": 2019,
+      "c": 91,
+      "u": 9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/resident-evil-2/",
+      "mc": "https://www.metacritic.com/game/resident-evil-2/",
+      "dlc": null
+    },
+    {
+      "t": "Split Fiction",
+      "y": 2025,
+      "c": 91,
+      "u": 8.8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/split-fiction/",
+      "mc": "https://www.metacritic.com/game/split-fiction/",
+      "dlc": null
+    },
+    {
+      "t": "Disco Elysium",
+      "y": 2019,
+      "c": 91,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/disco-elysium-the-final-cut/",
+      "mc": "https://www.metacritic.com/game/disco-elysium-the-final-cut/",
+      "dlc": null
+    },
+    {
+      "t": "Dark Souls II",
+      "y": 2014,
+      "c": 91,
+      "u": 7.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/335300/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/dark-souls-ii/",
+      "mc": "https://www.metacritic.com/game/dark-souls-ii/",
+      "dlc": "With DLCs"
+    },
+    {
+      "t": "Crusader Kings III",
+      "y": 2020,
+      "c": 91,
+      "u": 8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/crusader-kings-iii/",
+      "mc": "https://www.metacritic.com/game/crusader-kings-iii/",
+      "dlc": null
+    },
+    {
+      "t": "Inside",
+      "y": 2016,
+      "c": 91,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/304430/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/inside/",
+      "mc": "https://www.metacritic.com/game/inside/",
+      "dlc": null
+    },
+    {
+      "t": "Sekiro: Shadows Die Twice",
+      "y": 2019,
+      "c": 90,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/sekiro-shadows-die-twice/",
+      "mc": "https://www.metacritic.com/game/sekiro-shadows-die-twice/",
+      "dlc": null
+    },
+    {
+      "t": "Hollow Knight",
+      "y": 2017,
+      "c": 90,
+      "u": 8.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition/",
+      "mc": "https://www.metacritic.com/game/hollow-knight/",
+      "dlc": null
+    },
+    {
+      "t": "Limbo",
+      "y": 2010,
+      "c": 90,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/limbo/",
+      "mc": "https://www.metacritic.com/game/limbo/",
+      "dlc": null
+    },
+    {
+      "t": "Tekken 8",
+      "y": 2024,
+      "c": 90,
+      "u": 6.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/tekken-8/",
+      "mc": "https://www.metacritic.com/game/tekken-8/",
+      "dlc": "Ultimate Edition"
+    },
+    {
+      "t": "Marvel's Spider-Man 2",
+      "y": 2023,
+      "c": 90,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2651280/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/marvels-spider-man-2/",
+      "mc": "https://www.metacritic.com/game/marvels-spider-man-2/",
+      "dlc": null
+    },
+    {
+      "t": "Dark Souls Remastered",
+      "y": 2018,
+      "c": 89,
+      "u": 8.8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/dark-souls-remastered/",
+      "mc": "https://www.metacritic.com/game/dark-souls-remastered/",
+      "dlc": "With DLCs"
+    },
+    {
+      "t": "Dark Souls III",
+      "y": 2016,
+      "c": 89,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/dark-souls-iii/",
+      "mc": "https://www.metacritic.com/game/dark-souls-iii/",
+      "dlc": "With DLCs"
+    },
+    {
+      "t": "Tony Hawk's Pro Skater 1+2",
+      "y": 2020,
+      "c": 89,
+      "u": 8.1,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/tony-hawks-pro-skater-1-2/",
+      "mc": "https://www.metacritic.com/game/tony-hawks-pro-skater-1--2/",
+      "dlc": null
+    },
+    {
+      "t": "It Takes Two",
+      "y": 2021,
+      "c": 89,
+      "u": 8.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/it-takes-two/",
+      "mc": "https://www.metacritic.com/game/it-takes-two/",
+      "dlc": null
+    },
+    {
+      "t": "Dead Cells",
+      "y": 2018,
+      "c": 89,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/dead-cells/",
+      "mc": "https://www.metacritic.com/game/dead-cells/",
+      "dlc": null
+    },
+    {
+      "t": "Alan Wake 2",
+      "y": 2023,
+      "c": 89,
+      "u": 8.2,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/alan-wake-2/",
+      "mc": "https://www.metacritic.com/game/alan-wake-2/",
+      "dlc": "+ DLCs"
+    },
+    {
+      "t": "Like a Dragon: Infinite Wealth",
+      "y": 2024,
+      "c": 89,
+      "u": 8.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2072450/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/like-a-dragon-infinite-wealth/",
+      "mc": "https://www.metacritic.com/game/like-a-dragon-infinite-wealth/",
+      "dlc": null
+    },
+    {
+      "t": "Death Stranding 2: On the Beach",
+      "y": 2025,
+      "c": 89,
+      "u": 8.7,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/death-stranding-2-on-the-beach/",
+      "mc": "https://www.metacritic.com/game/death-stranding-2-on-the-beach/",
+      "dlc": null
+    },
+    {
+      "t": "Nioh",
+      "y": 2017,
+      "c": 88,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/485510/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/nioh/",
+      "mc": "https://www.metacritic.com/game/nioh/",
+      "dlc": null
+    },
+    {
+      "t": "Devil May Cry 5",
+      "y": 2019,
+      "c": 88,
+      "u": 8.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/devil-may-cry-5/",
+      "mc": "https://www.metacritic.com/game/devil-may-cry-5/",
+      "dlc": null
+    },
+    {
+      "t": "Horizon Forbidden West",
+      "y": 2022,
+      "c": 88,
+      "u": 8.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "mc": "https://www.metacritic.com/game/horizon-forbidden-west/",
+      "dlc": null
+    },
+    {
+      "t": "TES IV: Oblivion Remastered",
+      "y": 2025,
+      "c": 88,
+      "u": 7.9,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-elder-scrolls-iv-oblivion-remastered/",
+      "mc": "https://www.metacritic.com/game/the-elder-scrolls-iv-oblivion-remastered/",
+      "dlc": null
+    },
+    {
+      "t": "Resident Evil Requiem",
+      "y": 2026,
+      "c": 88,
+      "u": 9.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/3764200/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/resident-evil-requiem/",
+      "mc": "https://www.metacritic.com/game/resident-evil-requiem/",
+      "dlc": null
+    },
+    {
+      "t": "Saros",
+      "y": 2026,
+      "c": 88,
+      "u": null,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/saros/",
+      "mc": "https://www.metacritic.com/game/saros/",
+      "dlc": null
+    },
+    {
+      "t": "FF Tactics: The Ivalice Chronicles",
+      "y": 2025,
+      "c": 87,
+      "u": null,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-tactics-the-ivalice-chronicles/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-tactics-the-ivalice-chronicles/",
+      "dlc": null
+    },
+    {
+      "t": "Ghost of Yotei",
+      "y": 2025,
+      "c": 87,
+      "u": null,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/ghost-of-yotei/",
+      "mc": "https://www.metacritic.com/game/ghost-of-yotei/",
+      "dlc": null
+    },
+    {
+      "t": "Armored Core VI",
+      "y": 2023,
+      "c": 87,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/armored-core-vi-fires-of-rubicon/",
+      "mc": "https://www.metacritic.com/game/armored-core-vi-fires-of-rubicon/",
+      "dlc": null
+    },
+    {
+      "t": "Final Fantasy XVI",
+      "y": 2023,
+      "c": 87,
+      "u": 8.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2515020/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-xvi/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-xvi/",
+      "dlc": null
+    },
+    {
+      "t": "Final Fantasy VII Remake",
+      "y": 2020,
+      "c": 87,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462040/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-vii-remake/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-vii-remake/",
+      "dlc": null
+    },
+    {
+      "t": "Injustice 2",
+      "y": 2017,
+      "c": 87,
+      "u": 7.8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/627270/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/injustice-2/",
+      "mc": "https://www.metacritic.com/game/injustice-2/",
+      "dlc": null
+    },
+    {
+      "t": "Psychonauts 2",
+      "y": 2021,
+      "c": 87,
+      "u": 8.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/607080/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/psychonauts-2/",
+      "mc": "https://www.metacritic.com/game/psychonauts-2/",
+      "dlc": null
+    },
+    {
+      "t": "Returnal",
+      "y": 2021,
+      "c": 86,
+      "u": 8.1,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/returnal/",
+      "mc": "https://www.metacritic.com/game/returnal/",
+      "dlc": null
+    },
+    {
+      "t": "Uncharted: Nathan Drake Collection",
+      "y": 2015,
+      "c": 86,
+      "u": 8.4,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection/",
+      "mc": "https://www.metacritic.com/game/uncharted-the-nathan-drake-collection/",
+      "dlc": "Uncharted 1–3"
+    },
+    {
+      "t": "Prince of Persia: The Lost Crown",
+      "y": 2024,
+      "c": 86,
+      "u": 8.4,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/prince-of-persia-the-lost-crown/",
+      "mc": "https://www.metacritic.com/game/prince-of-persia-the-lost-crown/",
+      "dlc": null
+    },
+    {
+      "t": "Bastion",
+      "y": 2011,
+      "c": 86,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/107100/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/bastion/",
+      "mc": "https://www.metacritic.com/game/bastion/",
+      "dlc": null
+    },
+    {
+      "t": "Nioh 2",
+      "y": 2020,
+      "c": 85,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/nioh-2/",
+      "mc": "https://www.metacritic.com/game/nioh-2/",
+      "dlc": null
+    },
+    {
+      "t": "Spider-Man: Miles Morales",
+      "y": 2020,
+      "c": 85,
+      "u": 8.5,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "mc": "https://www.metacritic.com/game/marvels-spider-man-miles-morales/",
+      "dlc": null
+    },
+    {
+      "t": "Crash Bandicoot 4: It's About Time",
+      "y": 2020,
+      "c": 85,
+      "u": 7.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1378990/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/crash-bandicoot-4-its-about-time/",
+      "mc": "https://www.metacritic.com/game/crash-bandicoot-4-its-about-time/",
+      "dlc": null
+    },
+    {
+      "t": "Outer Wilds",
+      "y": 2019,
+      "c": 85,
+      "u": 8.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/outer-wilds/",
+      "mc": "https://www.metacritic.com/game/outer-wilds/",
+      "dlc": null
+    },
+    {
+      "t": "Star Wars Jedi: Survivor",
+      "y": 2023,
+      "c": 85,
+      "u": 7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1774580/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/star-wars-jedi-survivor/",
+      "mc": "https://www.metacritic.com/game/star-wars-jedi-survivor/",
+      "dlc": null
+    },
+    {
+      "t": "Ratchet & Clank",
+      "y": 2016,
+      "c": 85,
+      "u": 8.2,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/ratchet-and-clank/",
+      "mc": "https://www.metacritic.com/game/ratchet-clank/",
+      "dlc": null
+    },
+    {
+      "t": "Death Stranding Director's Cut",
+      "y": 2021,
+      "c": 85,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/death-stranding-directors-cut/",
+      "mc": "https://www.metacritic.com/game/death-stranding-directors-cut/",
+      "dlc": null
+    },
+    {
+      "t": "Resident Evil Village",
+      "y": 2021,
+      "c": 84,
+      "u": 8.5,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/resident-evil-village/",
+      "mc": "https://www.metacritic.com/game/resident-evil-village/",
+      "dlc": null
+    },
+    {
+      "t": "Sayonara Wild Hearts",
+      "y": 2019,
+      "c": 84,
+      "u": 7.7,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/sayonara-wild-hearts/",
+      "mc": "https://www.metacritic.com/game/sayonara-wild-hearts/",
+      "dlc": null
+    },
+    {
+      "t": "Hogwarts Legacy",
+      "y": 2023,
+      "c": 84,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/hogwarts-legacy/",
+      "mc": "https://www.metacritic.com/game/hogwarts-legacy/",
+      "dlc": null
+    },
+    {
+      "t": "OlliOlli World",
+      "y": 2022,
+      "c": 84,
+      "u": 7.5,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/olliolli-world/",
+      "mc": "https://www.metacritic.com/game/olliolli-world/",
+      "dlc": null
+    },
+    {
+      "t": "Deus Ex: Mankind Divided",
+      "y": 2016,
+      "c": 83,
+      "u": 7.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/337000/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/deus-ex-mankind-divided/",
+      "mc": "https://www.metacritic.com/game/deus-ex-mankind-divided/",
+      "dlc": null
+    },
+    {
+      "t": "Crash Team Racing Nitro-Fueled",
+      "y": 2019,
+      "c": 83,
+      "u": 8.2,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/crash-team-racing-nitro-fueled/",
+      "mc": "https://www.metacritic.com/game/crash-team-racing-nitro-fueled/",
+      "dlc": null
+    },
+    {
+      "t": "Ghost of Tsushima",
+      "y": 2020,
+      "c": 83,
+      "u": 9.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/ghost-of-tsushima/",
+      "mc": "https://www.metacritic.com/game/ghost-of-tsushima/",
+      "dlc": null
+    },
+    {
+      "t": "Crisis Core: FFVII Reunion",
+      "y": 2022,
+      "c": 83,
+      "u": 8.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1608070/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/crisis-core-final-fantasy-vii-reunion/",
+      "mc": "https://www.metacritic.com/game/crisis-core-final-fantasy-vii-reunion/",
+      "dlc": null
+    },
+    {
+      "t": "This War of Mine",
+      "y": 2014,
+      "c": 83,
+      "u": 8.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/282070/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/this-war-of-mine/",
+      "mc": "https://www.metacritic.com/game/this-war-of-mine/",
+      "dlc": null
+    },
+    {
+      "t": "Tekken 7",
+      "y": 2017,
+      "c": 82,
+      "u": 7.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/389730/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/tekken-7/",
+      "mc": "https://www.metacritic.com/game/tekken-7/",
+      "dlc": "+ DLC"
+    },
+    {
+      "t": "The Outer Worlds",
+      "y": 2019,
+      "c": 82,
+      "u": 7.4,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-outer-worlds/",
+      "mc": "https://www.metacritic.com/game/the-outer-worlds/",
+      "dlc": null
+    },
+    {
+      "t": "Sifu",
+      "y": 2022,
+      "c": 81,
+      "u": 8.2,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/sifu/",
+      "mc": "https://www.metacritic.com/game/sifu/",
+      "dlc": null
+    },
+    {
+      "t": "Kena: Bridge of Spirits",
+      "y": 2021,
+      "c": 81,
+      "u": 8.3,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/kena-bridge-of-spirits/",
+      "mc": "https://www.metacritic.com/game/kena-bridge-of-spirits/",
+      "dlc": null
+    },
+    {
+      "t": "Black Myth: Wukong",
+      "y": 2024,
+      "c": 81,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/black-myth-wukong/",
+      "mc": "https://www.metacritic.com/game/black-myth-wukong/",
+      "dlc": null
+    },
+    {
+      "t": "Final Fantasy XV",
+      "y": 2016,
+      "c": 81,
+      "u": 7.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/637650/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/final-fantasy-xv/",
+      "mc": "https://www.metacritic.com/game/final-fantasy-xv/",
+      "dlc": null
+    },
+    {
+      "t": "Assassin's Creed Origins",
+      "y": 2017,
+      "c": 81,
+      "u": 8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/assassins-creed-origins/",
+      "mc": "https://www.metacritic.com/game/assassins-creed-origins/",
+      "dlc": null
+    },
+    {
+      "t": "Lies of P",
+      "y": 2023,
+      "c": 81,
+      "u": 8.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/lies-of-p/",
+      "mc": "https://www.metacritic.com/game/lies-of-p/",
+      "dlc": null
+    },
+    {
+      "t": "Guardians of the Galaxy",
+      "y": 2021,
+      "c": 80,
+      "u": 8.5,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1088850/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/marvels-guardians-of-the-galaxy/",
+      "mc": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy/",
+      "dlc": null
+    },
+    {
+      "t": "Assassin's Creed Valhalla",
+      "y": 2020,
+      "c": 80,
+      "u": 7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/assassins-creed-valhalla/",
+      "mc": "https://www.metacritic.com/game/assassins-creed-valhalla/",
+      "dlc": null
+    },
+    {
+      "t": "Immortals Fenyx Rising",
+      "y": 2020,
+      "c": 80,
+      "u": 7.7,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/immortals-fenyx-rising/",
+      "mc": "https://www.metacritic.com/game/immortals-fenyx-rising/",
+      "dlc": null
+    },
+    {
+      "t": "The Wolf Among Us",
+      "y": 2013,
+      "c": 80,
+      "u": 8.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/250320/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-wolf-among-us/",
+      "mc": "https://www.metacritic.com/game/the-wolf-among-us/",
+      "dlc": null
+    },
+    {
+      "t": "Middle-earth: Shadow of War",
+      "y": 2017,
+      "c": 80,
+      "u": 7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/356190/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/",
+      "mc": "https://www.metacritic.com/game/middle-earth-shadow-of-war/",
+      "dlc": null
+    },
+    {
+      "t": "Ruined King: A LoL Story",
+      "y": 2021,
+      "c": 80,
+      "u": 7.8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1276790/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/ruined-king-a-league-of-legends-story/",
+      "mc": "https://www.metacritic.com/game/ruined-king-a-league-of-legends-story/",
+      "dlc": null
+    },
+    {
+      "t": "Resident Evil 3 Remake",
+      "y": 2020,
+      "c": 79,
+      "u": 7.3,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/resident-evil-3/",
+      "mc": "https://www.metacritic.com/game/resident-evil-3/",
+      "dlc": null
+    },
+    {
+      "t": "Ultimate Chicken Horse",
+      "y": 2016,
+      "c": 77,
+      "u": 8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/ultimate-chicken-horse/",
+      "mc": "https://www.metacritic.com/game/ultimate-chicken-horse/",
+      "dlc": null
+    },
+    {
+      "t": "Kingdom Come: Deliverance",
+      "y": 2018,
+      "c": 76,
+      "u": 8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/kingdom-come-deliverance/",
+      "mc": "https://www.metacritic.com/game/kingdom-come-deliverance/",
+      "dlc": null
+    },
+    {
+      "t": "Assassin's Creed Mirage",
+      "y": 2023,
+      "c": 76,
+      "u": 7.5,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/assassins-creed-mirage/",
+      "mc": "https://www.metacritic.com/game/assassins-creed-mirage/",
+      "dlc": null
+    },
+    {
+      "t": "Shadow of the Tomb Raider",
+      "y": 2018,
+      "c": 75,
+      "u": 7.8,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/shadow-of-the-tomb-raider/",
+      "mc": "https://www.metacritic.com/game/shadow-of-the-tomb-raider/",
+      "dlc": null
+    },
+    {
+      "t": "Firewatch",
+      "y": 2016,
+      "c": 75,
+      "u": 7.2,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/firewatch/",
+      "mc": "https://www.metacritic.com/game/firewatch/",
+      "dlc": null
+    },
+    {
+      "t": "The Ascent",
+      "y": 2021,
+      "c": 73,
+      "u": 7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/979690/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/the-ascent/",
+      "mc": "https://www.metacritic.com/game/the-ascent/",
+      "dlc": null
+    },
+    {
+      "t": "No Man's Sky",
+      "y": 2016,
+      "c": 71,
+      "u": 7.7,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/no-mans-sky/",
+      "mc": "https://www.metacritic.com/game/no-mans-sky/",
+      "dlc": null
+    },
+    {
+      "t": "Code Vein",
+      "y": 2019,
+      "c": 70,
+      "u": 7.6,
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/678960/library_600x900.jpg",
+      "link": "https://www.playstation.com/en-us/games/code-vein/",
+      "mc": "https://www.metacritic.com/game/code-vein/",
+      "dlc": null
+    },
+    {
+      "t": "God of War Sons of Sparta",
+      "y": 2026,
+      "c": 65,
+      "u": null,
+      "img": null,
+      "link": "https://www.playstation.com/en-us/games/god-of-war-sons-of-sparta/",
+      "mc": "https://www.metacritic.com/game/god-of-war-sons-of-sparta/",
+      "dlc": null
+    }
+  ]
+}
