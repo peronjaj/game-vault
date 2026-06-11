@@ -1,0 +1,52 @@
+name: Update game catalogue
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"        # every Monday 06:00 UTC
+  workflow_dispatch:            # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["data/overrides.json", "scripts/**", "index.html"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build games.json from sheet + RAWG
+        env:
+          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+        run: node scripts/build.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "vault-bot"
+          git config user.email "actions@github.com"
+          git add games.json build-warnings.txt || true
+          git diff --cached --quiet || git commit -m "Auto-update catalogue $(date -u +%F)"
+          git push
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
