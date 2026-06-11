@@ -156,10 +156,17 @@ async function lookupGame(title) {
     link = (ps || steam || all[0])?.url || link;
   } catch { /* keep rawg link */ }
 
+  // RAWG community verdict: top ratings bucket label, average (0-5), vote count
+  const topBucket = (best.ratings && best.ratings.length)
+    ? [...best.ratings].sort((a, b) => b.count - a.count)[0].title : null;
+
   return {
     t: best.name,
     y: best.released ? Number(best.released.slice(0, 4)) : null,
     c: best.metacritic ?? null,                  // critic Metascore
+    r: best.rating || null,                      // RAWG community rating 0-5
+    rl: topBucket,                               // "exceptional" / "recommended" / "meh" / "skip"
+    rc: best.ratings_count || 0,                 // number of votes
     img: best.background_image || null,          // official key art
     link,
     mc: `https://www.metacritic.com/search/${encodeURIComponent(best.name)}/`,
@@ -213,20 +220,22 @@ for (const title of titles) {
       t: ov.title || hit.t,
       y: ov.year ?? hit.y,
       c: ov.critic ?? hit.c,
-      u: ov.user ?? null,                        // user score: manual only (no public API)
+      r: hit.r,                                  // RAWG community rating 0-5
+      rl: hit.rl,
+      rc: hit.rc,
       img: ov.img || hit.img,
       link: ov.link || hit.link,
       mc: ov.mc || hit.mc,
       dlc: ov.dlc || null,
     });
-    console.log(`  ok: ${title} -> ${hit.t} [${hit.c ?? '–'}]`);
+    console.log(`  ok: ${title} -> ${hit.t} [MC ${hit.c ?? '–'} | RAWG ${hit.r ?? '–'}]`);
   } catch (e) {
     warnings.push(`ERROR for "${title}": ${e.message}`);
   }
   await sleep(250); // be polite to the free API
 }
 
-games.sort((a, b) => (b.c ?? 0) - (a.c ?? 0) || (b.u ?? 0) - (a.u ?? 0) || a.t.localeCompare(b.t));
+games.sort((a, b) => (b.c ?? 0) - (a.c ?? 0) || (b.r ?? 0) - (a.r ?? 0) || a.t.localeCompare(b.t));
 
 fs.writeFileSync(new URL('../games.json', import.meta.url),
   JSON.stringify({ updated: new Date().toISOString(), games }, null, 2));
