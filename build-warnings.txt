@@ -1,1 +1,97 @@
-NOT FOUND on RAWG: "Re-reckoning"
+ERROR for "Crash Team Racing Nitro-Fueled": RAWG games: HTTP 522
+ERROR for "Crash Bandicoot 4: It's About Time": RAWG games: HTTP 522
+ERROR for "Final fantasy IX": RAWG games: HTTP 522
+ERROR for "Tony Hawk's Pro Skater 1 + 2": RAWG games: HTTP 522
+ERROR for "Ultimate chicken horse": RAWG games: HTTP 522
+ERROR for "Uncharted: The Lost Legacy": RAWG games: HTTP 522
+ERROR for "Shadow of the Colossus": RAWG games: HTTP 522
+ERROR for "The Last of Us Part II": RAWG games: HTTP 522
+ERROR for "Ghost of Tsushima": RAWG games: HTTP 522
+ERROR for "Ratchet & Clank": RAWG games: HTTP 522
+ERROR for "Uncharted: The Nathan Drake Collection": RAWG games: HTTP 522
+ERROR for "Final Fantasy XV": RAWG games: HTTP 522
+ERROR for "Marvel's Spider-Man: Miles Morales": RAWG games: HTTP 522
+ERROR for "Dark Souls: Remastered": RAWG games: HTTP 522
+ERROR for "Dark Souls II": RAWG games: HTTP 522
+ERROR for "Dark Souls III": RAWG games: HTTP 522
+ERROR for "Demon's Souls (2020)": RAWG games: HTTP 522
+ERROR for "Sekiro: Shadows Die Twice": RAWG games: HTTP 522
+ERROR for "Red Dead Redemption 2": RAWG games: HTTP 522
+ERROR for "Outer Worlds": RAWG games: HTTP 522
+ERROR for "Celeste": RAWG games: HTTP 522
+ERROR for "The Witcher 3 Wild Hunt - Complete Edition": RAWG games: HTTP 522
+ERROR for "Hollow Knight": RAWG games: HTTP 522
+ERROR for "Code Vein": RAWG games: HTTP 522
+ERROR for "Bloodborne": RAWG games: HTTP 522
+ERROR for "Sayonara Wild Hearts": RAWG games: HTTP 522
+ERROR for "Inside": RAWG games: HTTP 522
+ERROR for "Limbo": RAWG games: HTTP 522
+ERROR for "Elden Ring": RAWG games: HTTP 522
+ERROR for "Shadow of the Tomb Raider": RAWG games: HTTP 522
+ERROR for "Deus Ex: Mankind Divided": RAWG games: HTTP 522
+ERROR for "Marvel's Guardians of the Galaxy": RAWG games: HTTP 522
+ERROR for "Returnal": RAWG games: HTTP 522
+ERROR for "Armored Core VI: Fires of Rubicon": RAWG games: HTTP 522
+ERROR for "Tekken 7": RAWG games: HTTP 522
+ERROR for "Kingdom Come: Deliverance": RAWG games: HTTP 522
+ERROR for "Wolf Among Us": RAWG games: HTTP 522
+ERROR for "No Man's Sky": RAWG games: HTTP 522
+ERROR for "Firewatch": RAWG games: HTTP 522
+ERROR for "Cyberpunk 2077": RAWG games: HTTP 522
+ERROR for "Nioh": RAWG games: HTTP 522
+ERROR for "Nioh 2": RAWG games: HTTP 522
+ERROR for "It Takes Two": RAWG games: HTTP 522
+ERROR for "Outer Wilds": RAWG games: HTTP 522
+ERROR for "Star Wars Jedi: Survivor": RAWG games: HTTP 522
+ERROR for "Lies of P": RAWG games: HTTP 522
+ERROR for "Resident Evil Village": RAWG games: HTTP 522
+ERROR for "Hades": RAWG games: HTTP 522
+ERROR for "Assassin's Creed Valhalla": RAWG games: HTTP 522
+ERROR for "Disco Elysium": RAWG games: HTTP 522
+ERROR for "Devil May Cry 5": RAWG games: HTTP 522
+ERROR for "Ruined King: A League of Legends Story": RAWG games: HTTP 522
+ERROR for "OlliOlli World": RAWG games: HTTP 522
+ERROR for "Crisis Core: Final Fantasy VII Reunion": RAWG games: HTTP 522
+ERROR for "Sifu": RAWG games: HTTP 522
+ERROR for "Bastion": RAWG games: HTTP 522
+ERROR for "Resident Evil 2 Remake": RAWG games: HTTP 522
+ERROR for "Resident Evil 3 Remake": RAWG games: HTTP 522
+ERROR for "The Walking Dead: Season 1": RAWG games: HTTP 522
+ERROR for "Prince of Persia: The Lost Crown": RAWG games: HTTP 522
+ERROR for "Immortals Fenyx Rising": RAWG games: HTTP 522
+ERROR for "Kena: Bridge of Spirits": RAWG games: HTTP 522
+ERROR for "Psychonauts 2": RAWG games: HTTP 522
+ERROR for "The Ascent": RAWG games: HTTP 522
+ERROR for "This War of Mine": RAWG games: HTTP 522
+ERROR for "Horizon Forbidden West": RAWG games: HTTP 522
+ERROR for "Death Stranding Director's Cut": RAWG games: HTTP 522
+ERROR for "Assassin's Creed Origins": RAWG games: HTTP 522
+ERROR for "Dead Cells": RAWG games: HTTP 522
+ERROR for "God of War: Ragnarök": RAWG games: HTTP 522
+ERROR for "Hogwarts Legacy": RAWG games: HTTP 522
+ERROR for "Resident Evil 4 Remake": RAWG games: HTTP 522
+ERROR for "Final Fantasy XVI": RAWG games: HTTP 522
+ERROR for "Final Fantasy VII Remake": RAWG games: HTTP 522
+ERROR for "Final Fantasy VII Rebirth": RAWG games: HTTP 522
+ERROR for "Marvel's Spider-Man 2": RAWG games: HTTP 522
+ERROR for "Shadow of War": RAWG games: HTTP 522
+ERROR for "Injustice 2": RAWG games: HTTP 522
+ERROR for "Tekken 8": RAWG games: HTTP 522
+ERROR for "Assassin's Creed Mirage": RAWG games: HTTP 522
+ERROR for "Black Myth: Wukong": RAWG games: HTTP 522
+ERROR for "Astro Bot": RAWG games: HTTP 522
+ERROR for "Persona 5 Royal": RAWG games: HTTP 522
+ERROR for "Like a Dragon: Infinity Wealth": RAWG games: HTTP 522
+ERROR for "The Elder Scrolls IV: Oblivion Remastered": RAWG games: HTTP 522
+ERROR for "Silent Hill 2 Remake": RAWG games: HTTP 522
+ERROR for "Metaphor: ReFantazio": RAWG games: HTTP 522
+ERROR for "Alan Wake 2": RAWG games: HTTP 522
+ERROR for "Split Fiction": RAWG games: HTTP 522
+ERROR for "Clair Obscur: Expedition 33": RAWG games: HTTP 522
+ERROR for "Death Stranding 2: On the Beach": RAWG games: HTTP 522
+ERROR for "Final Fantasy Tactics: The Ivalice Chronicles": RAWG games: HTTP 522
+ERROR for "God of War Sons of Sparta": RAWG games: HTTP 522
+ERROR for "Resident Evil Requiem": RAWG games: HTTP 522
+ERROR for "Crusader Kings III": RAWG games: HTTP 522
+ERROR for "Saros": RAWG games: HTTP 522
+ERROR for "Ghost of Yotei": RAWG games: HTTP 522
