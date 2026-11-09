@@ -43,7 +43,7 @@ ERROR for "Nioh 2": RAWG games: HTTP 522
 ERROR for "It Takes Two": RAWG games: HTTP 522
 ERROR for "Outer Wilds": RAWG games: HTTP 522
 ERROR for "Star Wars Jedi: Survivor": RAWG games: HTTP 522
-ERROR for "Lies of P": RAWG games: HTTP 522
+ERROR for "Lies of P + Overture DLC": RAWG games: HTTP 522
 ERROR for "Resident Evil Village": RAWG games: HTTP 522
 ERROR for "Hades": RAWG games: HTTP 522
 ERROR for "Assassin's Creed Valhalla": RAWG games: HTTP 522
@@ -86,6 +86,7 @@ ERROR for "The Elder Scrolls IV: Oblivion Remastered": RAWG games: HTTP 522
 ERROR for "Silent Hill 2 Remake": RAWG games: HTTP 522
 ERROR for "Metaphor: ReFantazio": RAWG games: HTTP 522
 ERROR for "Alan Wake 2": RAWG games: HTTP 522
+ERROR for "Mortal Shell 2": RAWG games: HTTP 522
 ERROR for "Split Fiction": RAWG games: HTTP 522
 ERROR for "Clair Obscur: Expedition 33": RAWG games: HTTP 522
 ERROR for "Death Stranding 2: On the Beach": RAWG games: HTTP 522
@@ -94,4 +95,6 @@ ERROR for "God of War Sons of Sparta": RAWG games: HTTP 522
 ERROR for "Resident Evil Requiem": RAWG games: HTTP 522
 ERROR for "Crusader Kings III": RAWG games: HTTP 522
 ERROR for "Saros": RAWG games: HTTP 522
+ERROR for "Assassin's Creed Black Flag Resynced": RAWG games: HTTP 522
 ERROR for "Ghost of Yotei": RAWG games: HTTP 522
+ERROR for "Onimusha: Way of the Sword": RAWG games: HTTP 522
